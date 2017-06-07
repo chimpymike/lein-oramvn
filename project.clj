@@ -1,4 +1,4 @@
-(defproject lein-oramvn "0.1.0-SNAPSHOT"
+(defproject lein-oramvn "1.0.0"
   :description "A leiningen plugin that enables retrieving dependencies from the Oracle Maven Repository"
   :url "https://github.com/chimpymike/lein-oramvn"
   :license {:name "Eclipse Public License"
